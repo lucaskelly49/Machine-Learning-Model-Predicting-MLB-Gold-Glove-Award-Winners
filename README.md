@@ -1,3 +1,23 @@
+# Machine Learning  
+
+In this third portfolio piece, you will see how data and statistical analyses combine to inform business decisions. In the presentation document, you will see 5 data-driven business recommendations produced from this analysis. This data comes from the popular Microsoft created sample database found here:
+
+https://www.geeksengine.com/article/northwind.html
+
+In navigating the documents in this repository, please see the following main pages:
+
+(1) Student.ipynb - notebook containing all the code that created this project.
+
+(2) GoldGloveAwards_MachineLearning.pdf - a non-technical presentation w/ notes.
+
+(3) Blog post link: https://lucaskellydataportfolio.weebly.com/data-science-blog/the-differences-between-decision-trees-and-random-forests
+
+(4) UPDATE - This model was used again at the end of the 2019 season to predict the final awards. Details can be found here: https://lucaskellydataportfolio.weebly.com/the-pick-off/machine-learning-our-way-to-the-gold-glove-award
+
+Below, you will see the details and requirements of this project as created by the Flatiron School:
+
+___________________________________________________________________________________________________
+___________________________________________________________________________________________________
 
 # Module 3 Final Project
 
