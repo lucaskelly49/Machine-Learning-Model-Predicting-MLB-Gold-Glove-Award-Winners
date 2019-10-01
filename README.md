@@ -1,14 +1,16 @@
 # Machine Learning  
 
-In this third portfolio piece, you will see how data and statistical analyses combine to inform business decisions. In the presentation document, you will see 5 data-driven business recommendations produced from this analysis. This data comes from the popular Microsoft created sample database found here:
+In this third portfolio piece, you will see the development of a machine learning model that trains itself on defensive fielding metrics from MLB position players from 2002 to 2017. Using 2018 as a validation holdout, the model accuratly predicted 4 players to receive a major fielding award at the end of the season and 2 players who were finalists. Check the update (4) to see how the model performed on 2019's data. The data used in this project was sourced from:
 
-https://www.geeksengine.com/article/northwind.html
+www.fangraphs.com
+
+www.baseball-reference.com
 
 In navigating the documents in this repository, please see the following main pages:
 
-(1) Student.ipynb - notebook containing all the code that created this project.
+(1) Student_Final.ipynb - notebook containing all the code that created this project.
 
-(2) GoldGloveAwards_MachineLearning.pdf - a non-technical presentation w/ notes.
+(2) Presentation.pdf - a non-technical presentation w/ notes.
 
 (3) Blog post link: https://lucaskellydataportfolio.weebly.com/data-science-blog/the-differences-between-decision-trees-and-random-forests
 
